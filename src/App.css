@@ -1,0 +1,24 @@
+body {
+    background-color: blueviolet;
+}
+.main{
+    width: 70%;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+form {
+    margin-bottom: 2%;
+}
+
+input{
+    border-radius: 4px;
+    margin-right: 1%;
+}
+
+button {
+    border-radius: 3px;
+    border: none;
+    margin-left: 1%;
+}
